@@ -22,9 +22,6 @@ Database Mastery: Proficient in MongoDB and MySQL, with strong knowledge in desi
 ERP Solutions: Developed ERP systems, particularly POS and LMS solutions, integrated with backend technologies using Odoo.
 
 
-Based on your expertise and background, here’s a detailed and polished README.md template for your GitHub profile that will showcase your skills, experiences, and aspirations effectively:
-
-
 # **👋 Hello, I'm Than Wanna Htun**
 
 
@@ -36,12 +33,12 @@ Based on your expertise and background, here’s a detailed and polished README.
 
 ###  **💼 Technical Skills**
 
-Programming Languages
-**JavaScript (Node.js, TypeScript)** - Advanced
-**Dart (Flutter)** - Advanced
-**SQL (MySQL)** - Proficient
-**NoSQL (MongoDB)** - Expert
-**Kotlin** - Currently learning with a focus on** Android development**.
+**Programming Languages**
+- **JavaScript (Node.js, TypeScript)** - Advanced
+- **Dart (Flutter)** - Advanced
+- **SQL (MySQL)** - Proficient
+- **NoSQL (MongoDB)** - Expert
+- **Kotlin** - Currently learning with a focus on** Android development**.
 
 
 
@@ -56,12 +53,12 @@ Advanced Backend Architectures: Exploring modern backend languages, best practic
 
 ## ****🚀 Currently Developing Projects****
 
-## **Bus Travel Agency Platform**
+**Bus Travel Agency Platform**
 
 An enterprise-level travel service platform that allows agencies to post available services, schedules, and trips, while customers can book and interact with agency offerings. This app is designed with scalability in mind to handle high user traffic, providing a seamless experience for both agencies and travelers.
 
 
-## **Tech Stack**: **Flutter** (frontend), **Node.js + Express.js** (backend), **MongoDB** (database)
+## **Tech Stack**: **Flutter** (frontend)  ,   **Node.js + Express.js** (backend)  ,   **MongoDB** (database)
 
 
 ## **🔗 [Connect With Me](thanwanna.dev@gmail.com)**
