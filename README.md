@@ -61,7 +61,8 @@ An enterprise-level travel service platform that allows agencies to post availab
 ## **Tech Stack**: **Flutter** (frontend)  ,   **Node.js + Express.js** (backend)  ,   **MongoDB** (database)
 
 
-## **🔗 [Connect With Me](thanwanna.dev@gmail.com)**
+## **🔗 [LinkedIn Profile]([thanwanna.dev@gmail.com](https://www.linkedin.com/in/than-wanna-45263729b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+))**
 Feel free to reach out for collaboration on backend or mobile projects, system architecture discussions, or anything tech-related! I’m always open to learning and sharing knowledge in the world of software engineering.
 
 
