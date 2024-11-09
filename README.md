@@ -38,7 +38,7 @@ ERP Solutions: Developed ERP systems, particularly POS and LMS solutions, integr
 - **Dart (Flutter)** - Advanced
 - **SQL (MySQL)** - Proficient
 - **NoSQL (MongoDB)** - Expert
-- **Kotlin** - Currently learning with a focus on** Android development**.
+- **Kotlin** - Currently learning with a focus on **Android development**.
 
 
 
@@ -53,7 +53,7 @@ Advanced Backend Architectures: Exploring modern backend languages, best practic
 
 ## ****🚀 Currently Developing Projects****
 
-**Bus Travel Agency Platform**
+**[Bus Travel Agency Platform](https://github.com/thanwannahtun/link)**
 
 An enterprise-level travel service platform that allows agencies to post available services, schedules, and trips, while customers can book and interact with agency offerings. This app is designed with scalability in mind to handle high user traffic, providing a seamless experience for both agencies and travelers.
 
@@ -61,8 +61,7 @@ An enterprise-level travel service platform that allows agencies to post availab
 ## **Tech Stack**: **Flutter** (frontend)  ,   **Node.js + Express.js** (backend)  ,   **MongoDB** (database)
 
 
-## **🔗 [LinkedIn Profile]([thanwanna.dev@gmail.com](https://www.linkedin.com/in/than-wanna-45263729b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-))**
+## **🔗 [LinkedIn Profile](https://www.linkedin.com/in/than-wanna-45263729b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 Feel free to reach out for collaboration on backend or mobile projects, system architecture discussions, or anything tech-related! I’m always open to learning and sharing knowledge in the world of software engineering.
 
 
